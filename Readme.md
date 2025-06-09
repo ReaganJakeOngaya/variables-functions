@@ -25,5 +25,5 @@
  ## const
  1. its preferred for immutable variables.
  2. its also block scoped just like let.
- 3. its also hoisted the same way as let. and throw a Referrence error if accessed early.
+ 3. its also hoisted the same way as let. And throws a Referrence error if accessed early.
  4. they can NOT be re-assigned. But a new Object or Array can modify the properties of the object or the elements of the array the const variable is storing and managing.

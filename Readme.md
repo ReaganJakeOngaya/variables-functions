@@ -1,6 +1,6 @@
 ## Variables
 - Are the Fundamentals for storing and managing data in JS.
-- They are essentially named containers taht store values, allowing refferencing and manipulation while working on your code.
+- They are essentially named containers that store values, allowing referrencing and manipulation while working on your code.
 
 ## Naming conventions and rules
 1. Cannot start with a number
